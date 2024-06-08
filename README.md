@@ -2,7 +2,7 @@
 
 - I'm 14
 - I spend my time making apps to automate stuff that doesn't need automated
-- If anyone has any prodjects for my I will be happy to take on the job
+- If anyone has any projects for my I will be happy to take on the job
 
 <!--
 **thorhelson/thorhelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
